@@ -1,1 +1,2 @@
 # POC_Openai
+# api_key : "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"
