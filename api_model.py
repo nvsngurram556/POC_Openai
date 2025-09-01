@@ -10,7 +10,7 @@ response = client.chat.completions.create(
     messages=[
         {
             "role": "user",
-            "content": "How to Build OpenAI model for an Organization?"
+            "content": "In which year did OpenAI launch GPT-4?"
         }
     ]
 )
